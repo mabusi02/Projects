@@ -1,6 +1,6 @@
 # Projects in R and Python and Academic Research Papers using Tableau
 
-These are some of the projects I have worked on in Python and R. All of these projects contain elements of data cleaning, data exploration, data visualization, model building and model evaluation. The core principle was to apply all the skills I have learnt in an academic setting on actual datasets. These projects utilize most of the Python and R packages used predominantly on various data science tasks e.g. Tensor Flow, Neural Networks, RandomForests
+These are some of the projects I have worked on in Python and R. All of these projects contain elements of data cleaning, data exploration, data visualization, model building and model evaluation. The core principle was to apply all the skills I have learnt in an academic setting on actual datasets. These projects utilize most of the Python and R packages used predominantly on various data science tasks e.g. Deep Learning, Tensor Flow, Neural Networks, RandomForests
 
 
 
