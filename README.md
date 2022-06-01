@@ -4,4 +4,4 @@ These are some of the collaborative projects I have worked on using in Python an
 
 Furthermore, there are two academic research papers examining Net Price Calculators, FTE enrollment, and Student Debt in Higher Education in the Midwest. Tableau and Microsoft Excel are the softwares I particularly used to visualize my research findings on these papers. 
 
-**Note** Projects in R and Large notebooks have word and pdf documents which can be downloaded
+**Note:** Projects in R and Large notebooks have word and pdf documents which can be downloaded
